@@ -1,3 +1,3 @@
 - 👋 Hola soy @65pitito
 - Programador de FiveM
-- residing scripts
+- redesign scripts
